@@ -1,0 +1,2 @@
+# angular-drag-scroll
+Angularでのドラッグスクロールサンプルです
